@@ -1,3 +1,13 @@
 IOT/models/stage5/stage5_vulnerability_specialist.txt filter=lfs diff=lfs merge=lfs -text
 IOT/models/stage6_recon/stage6_reconnaissance_specialist.txt filter=lfs diff=lfs merge=lfs -text
 IOT/models/stage2/stage2_attack_family_model.pkl filter=lfs diff=lfs merge=lfs -text
+# Git LFS - Python / ML model artifacts
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+
+# Large ML / model files
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
