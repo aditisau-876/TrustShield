@@ -1,0 +1,11 @@
+{
+    "device_id": "CAMERA_01",
+    "device_type": "CCTV",
+    "cpu_usage": 42,
+    "memory_usage": 58,
+    "packet_rate": 120,
+    "connections": 3,
+    "data_sent_mb": 12,
+    "data_received_mb": 8,
+    "failed_commands": 0
+}

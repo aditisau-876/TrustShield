@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+python-dotenv
+tldextract
+joblib
+scikit-learn
+lightgbm
+fastapi
+uvicorn

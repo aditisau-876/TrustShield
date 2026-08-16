@@ -1,0 +1,7 @@
+{
+  "threshold": 0.5622387855391393,
+  "ensemble": {
+    "lightgbm": 0.55,
+    "character_model": 0.45
+  }
+}
